@@ -1,10 +1,12 @@
+Completed: 
+
+Intro to HTML and CSS (UD304)
 JavaScript Basics (UD804)
+
 Object-Oriented JavaScript (UD015)
 Responsive Images (UD882)
 Responsive Web Design Fundamentals (UD893)
-Intro to HTML and CSS (UD304)
 Browser Rendering Optimization (UD860)
-How to Use Git and GitHub (UD775)
 Website Performance Optimization (UD884)
 Intro to jQuery (UD245)
 HTML5 Canvas (UD292)
