@@ -15,5 +15,6 @@ for (var i = word.length - 1; i >= 0; i--) {
 //returning value
 return revw;
 }
+
 //calling function
 rev("Javascript");
