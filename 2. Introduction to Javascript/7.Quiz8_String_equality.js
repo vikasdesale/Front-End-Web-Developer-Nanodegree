@@ -5,4 +5,3 @@
 // fix the right side of the expression
 var answer = "ALL Strings are CrEaTeD equal" == "ALL Strings are CrEaTeD equal";
 console.log(answer);
-ß
